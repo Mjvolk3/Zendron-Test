@@ -26,7 +26,7 @@ workspace:
     vaults:
         -
             fsPath: .
-            name: Dendron-Template
+            name: Zendron-Test
             selfContained: true
     journal:
         dailyDomain: daily
