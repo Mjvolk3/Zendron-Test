@@ -24,7 +24,7 @@ podType: MarkdownExportV2
 # description: export destination. Specify either a file path or 'clipboard' to export to your clipboard
 # type: string
 # required: true
-destination: export
+destination: notes/assets/publish
 
 # description: undefined
 # type: boolean
